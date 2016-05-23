@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\tools\Android-x86_64\adt-bundle-windows-x86_64_20140101\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\ZHONG\Desktop\moneytextview1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_bec0aa1b8558034777d92c28bca68d888d684173.jar" />
+    </item>
+
+</items>
